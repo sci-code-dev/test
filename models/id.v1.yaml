@@ -1,0 +1,7 @@
+title: id
+type: object
+x-tags:
+  - uniqe-identifier
+properties:
+  id:
+    type: string
